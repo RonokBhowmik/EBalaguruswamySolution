@@ -1,0 +1,6 @@
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution6.8\ProblemSolution6.8\bin\Debug\ProblemSolution6.8.exe.config
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution6.8\ProblemSolution6.8\bin\Debug\ProblemSolution6.8.exe
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution6.8\ProblemSolution6.8\bin\Debug\ProblemSolution6.8.pdb
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution6.8\ProblemSolution6.8\obj\Debug\ProblemSolution6.8.csprojResolveAssemblyReference.cache
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution6.8\ProblemSolution6.8\obj\Debug\ProblemSolution6.8.exe
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution6.8\ProblemSolution6.8\obj\Debug\ProblemSolution6.8.pdb

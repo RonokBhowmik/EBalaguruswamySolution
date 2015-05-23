@@ -1,0 +1,1 @@
+c:\users\ronok\documents\visual studio 2012\Projects\AreaOfTriangleCalculation\AreaOfTriangleCalculation\bin\Debug\AreaOfTriangleCalculation.exe.config

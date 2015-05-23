@@ -1,0 +1,5 @@
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.10\ProgramSolution1.10\bin\Debug\ProgramSolution1.10.exe.config
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.10\ProgramSolution1.10\bin\Debug\ProgramSolution1.10.exe
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.10\ProgramSolution1.10\bin\Debug\ProgramSolution1.10.pdb
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.10\ProgramSolution1.10\obj\Debug\ProgramSolution1.10.exe
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.10\ProgramSolution1.10\obj\Debug\ProgramSolution1.10.pdb

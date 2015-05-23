@@ -1,0 +1,8 @@
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\bin\Debug\AddSubApp.exe.config
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\bin\Debug\AddSubApp.exe
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\bin\Debug\AddSubApp.pdb
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\obj\Debug\AddSubApp.AddSubApplication.resources
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\obj\Debug\AddSubApp.Properties.Resources.resources
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\obj\Debug\AddSubApp.csproj.GenerateResource.Cache
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\obj\Debug\AddSubApp.exe
+c:\users\ronok\documents\visual studio 2012\Projects\AddSubApp\AddSubApp\obj\Debug\AddSubApp.pdb

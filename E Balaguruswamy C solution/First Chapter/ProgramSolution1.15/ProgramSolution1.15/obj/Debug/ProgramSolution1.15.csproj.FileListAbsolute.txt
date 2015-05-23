@@ -1,0 +1,9 @@
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\bin\Debug\ProgramSolution1.15.exe.config
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\bin\Debug\ProgramSolution1.15.exe
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\bin\Debug\ProgramSolution1.15.pdb
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\obj\Debug\ProgramSolution1.15.csprojResolveAssemblyReference.cache
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\obj\Debug\ProgramSolution1._15.ArithmeticApp.resources
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\obj\Debug\ProgramSolution1._15.Properties.Resources.resources
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\obj\Debug\ProgramSolution1.15.csproj.GenerateResource.Cache
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\obj\Debug\ProgramSolution1.15.exe
+c:\users\ronok\documents\visual studio 2012\Projects\ProgramSolution1.15\ProgramSolution1.15\obj\Debug\ProgramSolution1.15.pdb

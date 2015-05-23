@@ -1,0 +1,5 @@
+c:\users\ronok\documents\visual studio 2012\Projects\Problemno1.8\Problemno1.8\bin\Debug\Problemno1.8.exe.config
+c:\users\ronok\documents\visual studio 2012\Projects\Problemno1.8\Problemno1.8\bin\Debug\Problemno1.8.exe
+c:\users\ronok\documents\visual studio 2012\Projects\Problemno1.8\Problemno1.8\bin\Debug\Problemno1.8.pdb
+c:\users\ronok\documents\visual studio 2012\Projects\Problemno1.8\Problemno1.8\obj\Debug\Problemno1.8.exe
+c:\users\ronok\documents\visual studio 2012\Projects\Problemno1.8\Problemno1.8\obj\Debug\Problemno1.8.pdb

@@ -1,0 +1,5 @@
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution2.1\ProblemSolution2.1\bin\Debug\ProblemSolution2.1.exe.config
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution2.1\ProblemSolution2.1\bin\Debug\ProblemSolution2.1.exe
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution2.1\ProblemSolution2.1\bin\Debug\ProblemSolution2.1.pdb
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution2.1\ProblemSolution2.1\obj\Debug\ProblemSolution2.1.exe
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution2.1\ProblemSolution2.1\obj\Debug\ProblemSolution2.1.pdb

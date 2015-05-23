@@ -1,0 +1,5 @@
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution5.13\ProblemSolution5.13\bin\Debug\ProblemSolution5.13.exe.config
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution5.13\ProblemSolution5.13\bin\Debug\ProblemSolution5.13.exe
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution5.13\ProblemSolution5.13\bin\Debug\ProblemSolution5.13.pdb
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution5.13\ProblemSolution5.13\obj\Debug\ProblemSolution5.13.exe
+D:\E Balaguruswamy C solution\Fifth Chapter\ProblemSolution5.13\ProblemSolution5.13\obj\Debug\ProblemSolution5.13.pdb

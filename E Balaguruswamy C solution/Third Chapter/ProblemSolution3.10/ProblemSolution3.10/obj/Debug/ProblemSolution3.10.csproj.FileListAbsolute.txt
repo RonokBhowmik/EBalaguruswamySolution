@@ -1,0 +1,5 @@
+D:\E Balaguruswamy C solution\Third Chapter\ProblemSolution3.10\ProblemSolution3.10\bin\Debug\ProblemSolution3.10.exe.config
+D:\E Balaguruswamy C solution\Third Chapter\ProblemSolution3.10\ProblemSolution3.10\bin\Debug\ProblemSolution3.10.exe
+D:\E Balaguruswamy C solution\Third Chapter\ProblemSolution3.10\ProblemSolution3.10\bin\Debug\ProblemSolution3.10.pdb
+D:\E Balaguruswamy C solution\Third Chapter\ProblemSolution3.10\ProblemSolution3.10\obj\Debug\ProblemSolution3.10.exe
+D:\E Balaguruswamy C solution\Third Chapter\ProblemSolution3.10\ProblemSolution3.10\obj\Debug\ProblemSolution3.10.pdb

@@ -1,0 +1,5 @@
+D:\E Balaguruswamy C solution\Fourth Chapter\ProgramSolution4.10\ProgramSolution4.10\bin\Debug\ProgramSolution4.10.exe.config
+D:\E Balaguruswamy C solution\Fourth Chapter\ProgramSolution4.10\ProgramSolution4.10\bin\Debug\ProgramSolution4.10.exe
+D:\E Balaguruswamy C solution\Fourth Chapter\ProgramSolution4.10\ProgramSolution4.10\bin\Debug\ProgramSolution4.10.pdb
+D:\E Balaguruswamy C solution\Fourth Chapter\ProgramSolution4.10\ProgramSolution4.10\obj\Debug\ProgramSolution4.10.exe
+D:\E Balaguruswamy C solution\Fourth Chapter\ProgramSolution4.10\ProgramSolution4.10\obj\Debug\ProgramSolution4.10.pdb

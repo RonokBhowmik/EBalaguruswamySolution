@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProblemSolution1._2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("First Line" + "\t" + ":" + "Ronok Bhowmik");
+            Console.WriteLine("Second Line" + "\t" + ":" + "221,Baker Street");
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Third Line" + "\t" + ":" + "Bangalore,3804");
+            Console.WriteLine("---------------------------------------------");
+            Console.ReadKey();
+        }
+    }
+}

@@ -1,0 +1,6 @@
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution3.7\ProblemSolution3.7\bin\Debug\ProblemSolution3.7.exe.config
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution3.7\ProblemSolution3.7\bin\Debug\ProblemSolution3.7.exe
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution3.7\ProblemSolution3.7\bin\Debug\ProblemSolution3.7.pdb
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution3.7\ProblemSolution3.7\obj\Debug\ProblemSolution3.7.csprojResolveAssemblyReference.cache
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution3.7\ProblemSolution3.7\obj\Debug\ProblemSolution3.7.exe
+D:\E Balaguruswamy C solution\Second Chapter\ProblemSolution3.7\ProblemSolution3.7\obj\Debug\ProblemSolution3.7.pdb

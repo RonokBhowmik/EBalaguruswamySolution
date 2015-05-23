@@ -1,0 +1,5 @@
+D:\E Balaguruswamy C solution\Second Chapter\ProgramSolution2.7\ProgramSolution2.7\bin\Debug\ProgramSolution2.7.exe.config
+D:\E Balaguruswamy C solution\Second Chapter\ProgramSolution2.7\ProgramSolution2.7\bin\Debug\ProgramSolution2.7.exe
+D:\E Balaguruswamy C solution\Second Chapter\ProgramSolution2.7\ProgramSolution2.7\bin\Debug\ProgramSolution2.7.pdb
+D:\E Balaguruswamy C solution\Second Chapter\ProgramSolution2.7\ProgramSolution2.7\obj\Debug\ProgramSolution2.7.exe
+D:\E Balaguruswamy C solution\Second Chapter\ProgramSolution2.7\ProgramSolution2.7\obj\Debug\ProgramSolution2.7.pdb

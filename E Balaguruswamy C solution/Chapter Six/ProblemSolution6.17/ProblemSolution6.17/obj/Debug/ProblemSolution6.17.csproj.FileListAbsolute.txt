@@ -1,0 +1,5 @@
+D:\E Balaguruswamy C solution\Chapter Six\ProblemSolution6.17\ProblemSolution6.17\bin\Debug\ProblemSolution6.17.exe.config
+D:\E Balaguruswamy C solution\Chapter Six\ProblemSolution6.17\ProblemSolution6.17\bin\Debug\ProblemSolution6.17.exe
+D:\E Balaguruswamy C solution\Chapter Six\ProblemSolution6.17\ProblemSolution6.17\bin\Debug\ProblemSolution6.17.pdb
+D:\E Balaguruswamy C solution\Chapter Six\ProblemSolution6.17\ProblemSolution6.17\obj\Debug\ProblemSolution6.17.exe
+D:\E Balaguruswamy C solution\Chapter Six\ProblemSolution6.17\ProblemSolution6.17\obj\Debug\ProblemSolution6.17.pdb
